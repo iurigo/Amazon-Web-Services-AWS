@@ -1,7 +1,7 @@
 
 
 # Intro to Flask Apps
-![](https://github.com/iurigo/Cloud-AWS-Hadoop-Spark-Flask/blob/master/Spark/image.jpeg)
+![](https://github.com/iurigo/Cloud-AWS-Hadoop-Spark-Flask/blob/master/flask/image.png)
 
 ## Introduction
 
