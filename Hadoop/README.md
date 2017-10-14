@@ -1,5 +1,5 @@
 # Apache Hadoop
-![](https://github.com/iurigo/Cloud-AWS-Hadoop-Spark-Flask/blob/master/AWS/image.png)
+![](https://github.com/iurigo/Cloud-AWS-Hadoop-Spark-Flask/blob/master/Hadoop/image.jpeg)
 
 **Apache Hadoop** is an open-source software framework used for distributed storage and processing of dataset of big data using the MapReduce programming model. It consists of computer clusters built from commodity hardware. All the modules in Hadoop are designed with a fundamental assumption that hardware failures are common occurrences and should be automatically handled by the framework.
 
